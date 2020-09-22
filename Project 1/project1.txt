@@ -1,0 +1,7 @@
+git clone https://github.com/jmsanders55/-Computational-Social-Science-Projects.git
+mkdir "Project 1"
+cd "Project 1"
+vim project1.txt
+git add *
+git commit -m “updated with info”
+git push
